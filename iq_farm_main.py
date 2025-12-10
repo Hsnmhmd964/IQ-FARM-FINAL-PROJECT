@@ -197,7 +197,7 @@ class VisualizationManager:
     """إدارة طريقة عرض البيانات"""
     @staticmethod
     def fix_arabic_text(text):
-        """إصلاح نص RTL للعرض الصحيح في matplotlib (اختياري)."""
+        """إصلاح نص RTL للعرض الصحيح في matplotlib"""
         try:
             reshaped_text = arabic_reshaper.reshape(text)
             bidi_text = get_display(reshaped_text)
