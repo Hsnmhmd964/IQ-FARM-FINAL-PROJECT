@@ -50,7 +50,7 @@ IQ-FARM هو نظام توصيات محاصيل ذكي وسهل الاستخدا
 
 ```bash
 git clone https://github.com/Hsnmhmd964/IQ-FARM-FINAL-PROJECT
-cd IQ_FARM
+cd IQ-FARM-FINAL-PROJECT
 ```
 
 
