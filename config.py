@@ -1,7 +1,7 @@
 # IQ-FARM Configuration File
 
 # Telegram Bot Configuration
-BOT_TOKEN = "8289901238:AAHxIoPDSUgTzrnoAFUBQ1hVFEnfJn3iCpk"
+BOT_TOKEN = ""
 ADMIN_USER_ID = 1113375908 # Your Telegram user ID
 
 # Database paths
