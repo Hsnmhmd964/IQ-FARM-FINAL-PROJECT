@@ -194,7 +194,7 @@ class DataManager:
 
 
 class VisualizationManager:
-    """إدارة تصور البيانات"""
+    """إدارة طريقة عرض البيانات"""
     @staticmethod
     def fix_arabic_text(text):
         """إصلاح نص RTL للعرض الصحيح في matplotlib (اختياري)."""
